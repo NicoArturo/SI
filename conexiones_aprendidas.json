@@ -1,0 +1,14 @@
+{
+  "firma": "be8697a89c1d",
+  "conexiones": [],
+  "sin_efecto": [],
+  "intentos": [
+    {
+      "pulsador": [
+        12,
+        6
+      ],
+      "veces": 3
+    }
+  ]
+}
